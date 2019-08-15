@@ -4,7 +4,7 @@
 #PyBank
 ## Objective
 
-* Perfrom financial analysis on thge given budget data <b>(budget_data.csv)</b>
+* Perfrom financial analysis on the given budget data <b>(budget_data.csv)</b>
 
 * The task is to create a Python script that analyzes the records to calculate each of the following and writes the analysis to a text file:
 
