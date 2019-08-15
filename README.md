@@ -1,4 +1,5 @@
-<img src="/Users/yamah/Documents/Education/UCI_Data_Bootcamp/Work_UCI_Data_Bootcamp/PortfolioRepo/PyBankGit/Img/moneyStock.jpg">
+![moneyStock](Img/moneyStock.jpg)
+
 
 #PyBank
 ## Objective
